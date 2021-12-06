@@ -10,8 +10,13 @@ colors.forEach((color) => {
   button.setAttribute('data-color', color.color);
   buttons.appendChild(button);
   button.innerHTML = color.name;
+  button.addEventListener('click', function (e) {
+    const dataAttribute = button.getAttribute('data-color');
+    console.log(dataAttribute);
+  });
 });
 
+// take info from user:window.prompt('how many squares would you like to color?');
 const squares = 100;
 const container = document.querySelector('.container');
 
@@ -34,5 +39,3 @@ function setColor(element) {
   const color = '#FEFEFE';
   element.style.backgroundColor = color;
 }
-
-buttons.addEventListener('click', setColor);
