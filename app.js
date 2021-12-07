@@ -7,6 +7,9 @@ const colors = [
   { name: 'DARK RED', color: '#BF0000' },
   { name: 'ERASE', color: '#FEFEFE' },
 ];
+
+// Header
+
 // buttons
 let currentColor = '#FEFEFE';
 
@@ -30,7 +33,7 @@ for (let i = 0; i < squares; i++) {
   container.appendChild(square);
 
   //FOR MOBILE
-  square.addEventListener('click', () => {
+  square.addEventListener('mousedown', () => {
     updateSquareColor(square);
   });
   //FOR DESKTOP
