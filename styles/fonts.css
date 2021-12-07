@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('/fonts/transfonter.org-20211207-100709/Ubuntu-Medium.woff2')
+      format('woff2'),
+    url('/fonts/transfonter.org-20211207-100709/Ubuntu-Medium.woff')
+      format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
