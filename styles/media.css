@@ -2,4 +2,8 @@
   button {
     padding: 1rem;
   }
+  .square {
+    height: 16px;
+    width: 16px;
+  }
 }
