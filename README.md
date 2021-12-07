@@ -1,12 +1,20 @@
 INSERT MANDATORY GIF
 
-# Project Title
+# Square-painting
 
-Text about the project. This would also be a great place to link the game on Netlify.
+This is my first project in JavaScript, a useless website!
+Pic a color and start painting your sunset at:
+https://colorpainting.netlify.app/
 
 # Installation
 
-Add the installation instructions.
+1. #### Clone this repo via your terminal using the command git clone:
+
+    ```
+    git clone https://github.com/patrosk/smoove
+    ```
+
+2. #### Run a live preview/server.
 
 # Code Review
 
