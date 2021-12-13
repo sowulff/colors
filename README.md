@@ -18,6 +18,9 @@ https://colorpainting.netlify.app/
 
 # Code Review
 
+
+Code review written by [Nema Vinkeloe Uuskyla](https://github.com/patrosk).
+
 1. `index.html:7` - There is no title on the page (the title tag is empty). Add a title to make it prettier! (now it’s name is 127.0…..)
 2. You do not have to keep the font zip-files in your project, so to clean up your folder structure you could delete them. Similarly, you don't need to keep the demo and stylesheet from transfonter which is currently in your fonts folder. You only need your two woff files! That means you could also delete the entire folder named ‘Ubuntu’ in your project.
 3. `style.css:4` - You could have added your font as a variable in the :root of your css file, and you could also have given the buttons a specific font rather than using the preset button font, to make the site more cohesive.
@@ -29,6 +32,7 @@ https://colorpainting.netlify.app/
     ````
 6. In general, your code is very clear and easy to read. I had no problem understanding what part of your code did what. You’ve managed to keep your html file very short and instead you do most of the work with the help of Javascript. Well done! :)
     
+
 
 # Testers
 
