@@ -18,6 +18,8 @@ https://colorpainting.netlify.app/
 
 # Code Review
 
+Code review written by [Nema Vinkeloe Uuskyla](https://github.com/patrosk).
+
 1. `example.js:10-15` - Remember to think about X and this could be refactored using the amazing Y function.
 1. `example.js:10-15` - Remember to think about X and this could be refactored using the amazing Y function.
 1. `example.js:10-15` - Remember to think about X and this could be refactored using the amazing Y function.
