@@ -11,7 +11,7 @@ https://colorpainting.netlify.app/
 1. #### Clone this repo via your terminal using the command git clone:
 
     ```
-    git clone https://github.com/patrosk/smoove
+    git clone https://github.com/sowulff/colors
     ```
 
 2. #### Run a live preview/server.
