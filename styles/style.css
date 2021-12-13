@@ -41,6 +41,7 @@ button {
   border: 0.1em solid var(--white);
   color: var(--white);
   background-color: var(--white);
+  font-family: 'Ubuntu';
 }
 button:active {
   transform: scale(0.98);
